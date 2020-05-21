@@ -25,7 +25,7 @@ MARKET_NAME = "Waitrose "
 INITIAL_URL = 'http://www.waitrose.com'
 
 #path to ouptput file
-OUTPUT_PATH = "C:\\Users\\michal\\Documents\\akivaBerger\\Supermarkets\\Waitrose\\Data\\"
+OUTPUT_PATH = "."
 
 #xpathes queries
 xpath_mainCategories = '//div[@class = "mega-menu "]'

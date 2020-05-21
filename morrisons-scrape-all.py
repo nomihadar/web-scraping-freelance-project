@@ -24,7 +24,7 @@ MARKET_NAME = "Morrisons "
 INITIAL_URL = 'https://groceries.morrisons.com/webshop/getCategories.do?tags'
 
 #path to ouptput file
-OUTPUT_PATH = "C:\\Users\\michal\\Documents\\akivaBerger\\Supermarkets\\Morrisons\\Data\\"
+OUTPUT_PATH = "."
 
 #xpathes queries
 xpath_mainCategories = '//div[@id = "supernavSidebar_Grocery"]//a'

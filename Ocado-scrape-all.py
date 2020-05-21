@@ -26,7 +26,7 @@ ROOT_URl = 'https://www.ocado.com'
 INITIAL_URL = 'https://www.ocado.com/webshop/getCategories.do?tags='
 
 #path to ouptput file
-OUTPUT_PATH = "C:\\Users\\michal\\Documents\\akivaBerger\\Supermarkets\\Ocado\\Data\\"
+OUTPUT_PATH = "."
 
 #xpathes queries
 xpath_mainCategories = '//div[@id = "supernavSidebar_Grocery"]'

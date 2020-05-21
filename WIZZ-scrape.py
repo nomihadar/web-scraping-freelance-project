@@ -34,8 +34,7 @@ AIRLINE_NAME = 'WIZZ'
 INITIAL_URL = 'https://wizzair.com/en-GB/FlightSearch'
 
 #path to ouptput file
-OUTPUT_PATH = "C:\\Users\\michal\\Documents\\akivaBerger\\Airlines\\" \
-              + AIRLINE_NAME
+OUTPUT_PATH = ".\\" \ + AIRLINE_NAME
 
 #titels of output file
 TITELS = ("Airline", "Leave from", "Going To",
